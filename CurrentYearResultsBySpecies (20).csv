@@ -1,0 +1,28 @@
+﻿Species_Name
+Great Blue Heron
+
+Code,Name,Latitude,Longitude,No_Observed,Number_By_Party_Hours,Flags,Editor_Comments
+PRAR,Arecibo,18.2552,-66.6000,36,0.9172,,
+BANP,"New Providence Island, Bahamas",25.0541,-77.3968,33,0.8250,,
+MXES,"Ensenada, Baja California, Mexico",31.8002,-116.6335,28,0.2872,,
+PRCR,Cabo Rojo,18.0133,-67.1176,24,0.5106,,
+VISC,"St. Croix, USVI",17.7168,-64.7833,23,0.5786,,
+PRFA,Fajardo,18.3162,-65.6957,17,0.2656,"HC, ",
+VISJ,"St. John, USVI",18.3502,-64.7000,16,0.4604,,
+VITO,"Tortola, British V.I.",18.3502,-64.6167,9,0.2384,,
+CRRF,"Rainforest Adventures Atlantic, Costa Rica",10.1202,-83.5125,8,0.0331,,
+CRLS,"La Selva, Lower Braulio Carillo N.P., Costa Rica",10.3665,-84.0499,7,0.0336,,
+CRLM,"Fila Costera (la Merced), Costa Rica",9.1404,-83.4639,6,0.0293,,
+RPPC,"Pacific Canal Area, Panama",9.0003,-79.5832,6,0.0952,,
+RPAC,"Atlantic Canal Area, Panama",9.3003,-79.9501,5,0.0469,,
+CRGD,"Osa Peninsula, Golfo Dulce Reserve, Costa Rica",8.5251,-83.2002,4,0.3333,,
+VIEE,"East End, St. Croix, USVI",17.7572,-64.5602,3,0.1364,,
+BAAO,"Abaco Island, Bahamas",26.0418,-77.2569,2,0.0421,,
+CRMO,"Monteverde, Costa Rica",10.2999,-84.7667,2,0.0085,,
+RDSB,"Salinas-Bani, Dominican Republic",18.2151,-70.5153,2,0.2222,,
+CRGR,"Grecia, Costa Rica",10.0667,-84.3167,2,0.0000,,
+MNPI,Pillager,46.3333,-94.4833,1,0.0241,"US, ",
+ONGI,Georgian Bay Islands N.P.,44.8870,-79.7536,1,0.0313,,
+RPCC,"Central Canal Area, Panama",9.1333,-79.7833,1,0.0222,,
+MIAT,Au Train,46.3323,-86.8545,1,0.0909,,
+

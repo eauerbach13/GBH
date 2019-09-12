@@ -1,0 +1,21 @@
+﻿Species_Name
+Great Blue Heron
+
+Code,Name,Latitude,Longitude,No_Observed,Number_By_Party_Hours,Flags,Editor_Comments
+PRCR,Cabo Rojo,18.0133,-67.1176,25,0.5208,,
+MXSM,"San Miguel de Allende, Guanajuato, Mexico",20.8667,-100.8167,16,1.5238,,
+RPPC,"Pacific Canal Area, Panama",9.0003,-79.5832,12,0.0984,,
+CRLS,"La Selva, Lower Braulio Carillo N.P., Costa Rica",10.3665,-84.0499,11,0.0576,,
+RPAC,"Atlantic Canal Area, Panama",9.3003,-79.9501,10,0.0575,,
+VISJ,"St. John, USVI",18.3502,-64.7000,6,0.1101,,
+HOLA,"Lancetilla, Honduras",15.7667,-87.4500,5,0.1250,,
+VITO,"Tortola, British V.I.",18.3502,-64.6167,4,0.0411,,
+RPCC,"Central Canal Area, Panama",9.1333,-79.7833,3,0.0366,,
+RDSD,"Santo Domingo, Dominican Republic",18.3500,-70.2500,3,0.1429,,
+MXEL,"El Naranjo, San Luis Potosi, Mexico",22.5000,-99.4000,2,0.0650,,
+MXPA,"Palenque, Chiapas, Mexico",17.4333,-92.0000,2,0.0385,,
+CRGR,"Grecia, Costa Rica",10.0667,-84.3167,2,0.0323,,
+CLSB,"Sabana de Bogota, Cundinamarca, Colombia",4.8000,-74.0667,1,0.0235,,
+ESSS,"San Salvador, El Salvador",13.7333,-89.2833,1,0.0118,,
+GMPB,"Puerto Barrios, Izabal, Guatemala",15.8333,-88.6667,1,0.0333,,
+

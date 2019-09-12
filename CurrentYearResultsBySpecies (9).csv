@@ -1,0 +1,19 @@
+﻿Species_Name
+Great Blue Heron
+
+Code,Name,Latitude,Longitude,No_Observed,Number_By_Party_Hours,Flags,Editor_Comments
+MXSB,"San Blas, Nayarit, Mexico",21.5499,-105.1902,33,0.7586,,
+PRCR,Cabo Rojo,18.0133,-67.1176,12,0.2297,,
+RPPC,"Pacific Canal Area, Panama",9.0003,-79.5832,8,0.0779,,
+VISJ,"St. John, USVI",18.3502,-64.7000,8,0.1649,,
+RPAC,"Atlantic Canal Area, Panama",9.3003,-79.9501,6,0.0441,,
+HOLA,"Lancetilla, Honduras",15.7667,-87.4500,4,0.0925,,
+VITO,"Tortola, British V.I.",18.3502,-64.6167,4,0.0625,,
+TRTR,Trinidad,10.6336,-61.3390,2,0.0313,,
+CRGR,"Grecia, Costa Rica",10.0667,-84.3167,2,0.0248,,
+CRLS,"La Selva, Lower Braulio Carillo N.P., Costa Rica",10.3665,-84.0499,2,0.0161,,
+MXEL,"El Naranjo, San Luis Potosi, Mexico",22.5000,-99.4000,1,0.0195,,
+RPCC,"Central Canal Area, Panama",9.1333,-79.7833,1,0.0100,,
+PRHU,Humacao,18.1333,-65.8333,cw,0.0000,,
+GRGR,"Grenada, West Indies",12.0500,-61.7167,cw,0.0000,,
+

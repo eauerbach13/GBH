@@ -1,0 +1,22 @@
+﻿Species_Name
+Great Blue Heron
+
+Code,Name,Latitude,Longitude,No_Observed,Number_By_Party_Hours,Flags,Editor_Comments
+VISJ,"St. John, USVI",18.3502,-64.7000,19,0.7600,,
+BANP,"New Providence Island, Bahamas",25.0541,-77.3968,14,0.3333,,
+MXSM,"San Miguel de Allende, Guanajuato, Mexico",20.8667,-100.8167,12,1.0000,,
+RPPC,"Pacific Canal Area, Panama",9.0003,-79.5832,10,0.0656,,
+VITO,"Tortola, British V.I.",18.3502,-64.6167,9,0.0793,,
+CRLS,"La Selva, Lower Braulio Carillo N.P., Costa Rica",10.3665,-84.0499,8,0.0470,,
+HOLA,"Lancetilla, Honduras",15.7667,-87.4500,7,0.1273,,
+PRCR,Cabo Rojo,18.0133,-67.1176,6,0.2202,,
+RPAC,"Atlantic Canal Area, Panama",9.3003,-79.9501,6,0.0357,,
+RPCC,"Central Canal Area, Panama",9.1333,-79.7833,4,0.0271,,
+RDSD,"Santo Domingo, Dominican Republic",18.3500,-70.2500,4,0.1441,,
+CRMO,"Monteverde, Costa Rica",10.2999,-84.7667,3,0.0158,,
+PRFA,Fajardo,18.3162,-65.6957,3,0.0882,,
+CREB,"Estacion Biologica Cano Palma, Limon, Costa Rica",10.5834,-83.5333,1,0.0541,,
+CRGR,"Grecia, Costa Rica",10.0667,-84.3167,1,0.0204,,
+TRTR,Trinidad,10.6336,-61.3390,1,0.0250,,
+PRHU,Humacao,18.1333,-65.8333,cw,0.0000,,
+

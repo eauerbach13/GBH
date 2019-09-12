@@ -1,0 +1,22 @@
+﻿Species_Name
+Great Blue Heron
+
+Code,Name,Latitude,Longitude,No_Observed,Number_By_Party_Hours,Flags,Editor_Comments
+RPPC,"Pacific Canal Area, Panama",9.0003,-79.5832,20,0.1051,,
+PRCR,Cabo Rojo,18.0133,-67.1176,20,0.5333,,
+BANP,"New Providence Island, Bahamas",25.0541,-77.3968,19,0.3762,,
+MXSM,"San Miguel de Allende, Guanajuato, Mexico",20.8667,-100.8167,15,0.0000,,
+HOLA,"Lancetilla, Honduras",15.7667,-87.4500,8,0.2857,,
+RPAC,"Atlantic Canal Area, Panama",9.3003,-79.9501,8,0.0563,,
+CRLS,"La Selva, Lower Braulio Carillo N.P., Costa Rica",10.3665,-84.0499,7,0.0320,,
+PRFA,Fajardo,18.3162,-65.6957,5,0.0980,,
+VITO,"Tortola, British V.I.",18.3502,-64.6167,4,0.0525,,
+RDSB,"Salinas-Bani, Dominican Republic",18.2151,-70.5153,3,0.2727,,
+MXRE,"Rancho el Palomino, Chihuahua, Mexico",29.5823,-106.2827,3,0.0896,,
+CREB,"Estacion Biologica Cano Palma, Limon, Costa Rica",10.5834,-83.5333,3,0.1224,,
+CRGR,"Grecia, Costa Rica",10.0667,-84.3167,2,0.0308,,
+PRSB,San Juan Bay (retired),18.4167,-66.0333,2,0.2105,,
+RPVC,"Volcan, Chiriqui, Panama",8.8507,-82.6668,1,0.0183,,
+RDSD,"Santo Domingo, Dominican Republic",18.3500,-70.2500,1,0.0476,,
+CRMO,"Monteverde, Costa Rica",10.2999,-84.7667,cw,0.0000,,
+

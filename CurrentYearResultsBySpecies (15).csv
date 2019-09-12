@@ -1,0 +1,19 @@
+﻿Species_Name
+Great Blue Heron
+
+Code,Name,Latitude,Longitude,No_Observed,Number_By_Party_Hours,Flags,Editor_Comments
+PRCR,Cabo Rojo,18.0133,-67.1176,20,0.4790,,
+BANP,"New Providence Island, Bahamas",25.0541,-77.3968,19,0.2774,,
+VISJ,"St. John, USVI",18.3502,-64.7000,15,0.3659,,
+RPAC,"Atlantic Canal Area, Panama",9.3003,-79.9501,13,0.1016,,
+RPPC,"Pacific Canal Area, Panama",9.0003,-79.5832,9,0.0612,,
+PRFA,Fajardo,18.3162,-65.6957,8,0.1553,,
+CRLS,"La Selva, Lower Braulio Carillo N.P., Costa Rica",10.3665,-84.0499,8,0.0420,"HC, ",
+VITO,"Tortola, British V.I.",18.3502,-64.6167,7,0.0782,,
+RDSD,"Santo Domingo, Dominican Republic",18.3500,-70.2500,4,0.1333,,
+CRGR,"Grecia, Costa Rica",10.0667,-84.3167,3,0.0405,,
+PRSB,San Juan Bay (retired),18.4167,-66.0333,3,0.3750,,
+MXRE,"Rancho el Palomino, Chihuahua, Mexico",29.5823,-106.2827,2,0.0615,"US, ",
+RDSB,"Salinas-Bani, Dominican Republic",18.2151,-70.5153,2,0.1667,,
+RPVC,"Volcan, Chiriqui, Panama",8.8507,-82.6668,cw,0.0000,"US, ",
+

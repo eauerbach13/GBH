@@ -1,0 +1,19 @@
+﻿Species_Name
+Great Blue Heron
+
+Code,Name,Latitude,Longitude,No_Observed,Number_By_Party_Hours,Flags,Editor_Comments
+PRSJ,San Juan Bay Estuary,18.4300,-66.0348,22,1.3750,,
+PRCR,Cabo Rojo,18.0133,-67.1176,18,0.4898,,
+RPAC,"Atlantic Canal Area, Panama",9.3003,-79.9501,9,0.0709,,
+VISJ,"St. John, USVI",18.3502,-64.7000,8,0.1882,,
+VIST,"St. Thomas, USVI",18.3500,-64.9333,8,1.0000,,
+VITO,"Tortola, British V.I.",18.3502,-64.6167,7,0.1217,,
+VZCA,"Cano Araguaito, Orinoco River, Venezuela",8.6333,-61.9000,5,2.5000,,QU
+RPPC,"Pacific Canal Area, Panama",9.0003,-79.5832,4,0.0462,,
+CRLS,"La Selva, Lower Braulio Carillo N.P., Costa Rica",10.3665,-84.0499,4,0.0400,,
+RPCC,"Central Canal Area, Panama",9.1333,-79.7833,3,0.0359,,
+RDSD,"Santo Domingo, Dominican Republic",18.3500,-70.2500,1,0.0580,,
+MXCV,"Catemaco, Veracruz, Mexico",18.4833,-95.0333,1,0.0286,,
+MXEL,"El Naranjo, San Luis Potosi, Mexico",22.5000,-99.4000,1,0.0270,,
+CRGR,"Grecia, Costa Rica",10.0667,-84.3167,1,0.0165,,
+
